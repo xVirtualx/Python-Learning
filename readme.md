@@ -1,1 +1,1 @@
-Hello This is a Python Learning Git
+Hello! This is a Python Learning Git.
